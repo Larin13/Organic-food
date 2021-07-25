@@ -885,6 +885,7 @@ body {
     margin: 0;
     margin-bottom: 30px;
     width: 85px;
+    font-size: 12px;
   }
   .recipes__content_img {
     width: 260px;
